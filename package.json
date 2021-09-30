@@ -1,5 +1,5 @@
 {
-  "name": "react-hr-component",
+  "name": "react-js-simple-app",
   "version": "0.0.1",
   "private": false,
   "babel": {
@@ -48,5 +48,13 @@
   "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
   "main": "index.js",
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HamzaAshfaq54/react-js-simple-app.git"
+  },
+  "bugs": {
+    "url": "https://github.com/HamzaAshfaq54/react-js-simple-app/issues"
+  },
+  "homepage": "https://github.com/HamzaAshfaq54/react-js-simple-app#readme"
 }
