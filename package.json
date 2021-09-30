@@ -1,6 +1,6 @@
 {
   "name": "react-js-simple-app",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "private": false,
   "babel": {
     "presets": [
@@ -8,6 +8,7 @@
     ]
   },
   "dependencies": {
+    "@babel/plugin-syntax-jsx": "^7.14.5",
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
     "@testing-library/user-event": "^12.8.3",
